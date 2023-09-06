@@ -1,0 +1,12 @@
+.uikit_btn {
+    background-color:beige;
+    color:black;
+    border: none;
+    outline: none;
+    width: auto;
+    height: 35px;
+    text-transform: uppercase;
+    padding: 0 8px;
+    border-radius: 5px;
+    box-shadow: 1px 8px 11px 0px rgba(0, 0, 0, 0.1);
+}
